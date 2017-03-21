@@ -1,12 +1,17 @@
 ## Biography
 
-
 My name is Ashkan Saboori. I am a PhD student in the department of civil and Environmental Engineering at the University of Calfornia at Davis. My major is Structural Engineering with a minor in Pavement Engineering. I am working under the supervision of professor <a href=" https://faculty.engineering.ucdavis.edu/harvey/">John Harvey</a>.
 
-## Education Background
+##Interest in Data Science
+Part of my PhD reserach is about analysis of the Pavement Management System (PMS) data collected by Caltrans anually from the network highways in California. Working on this data, urged me towards learning the essential toolbox for doing data analysis in an efficient manner. Since 2015, I have started to take courses related to data analysis and coding in both Computer Science and Statistic departments. I have noticed a great passion about data science and am really ineterested in learing top-notch skills in this field. I belive having a strong background in engineering has given me a set of skills for critical thinking and problem solving that integrating with data analysis skills will make me a viable candidate for future job opportunities. 
+
+## Educational Background
 - PhD in Civil Engineering with an emphasis on Structural Mechanics, The University of California, Davis, California, 2015-present
 - MS in Civil Engineering with an emphasis on Structural Mechanics, North Dakota State University, Fargo, North Dakota, 2012-2015
-- BS in Civil Engineering, Mashhad, Iran, 2007-2012 
+- BS in Civil Engineering, Mashhad, Iran, 2007-2012
+
+## Data Science Projects
+
 
 ### Markdown
 
