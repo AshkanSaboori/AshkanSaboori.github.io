@@ -1,6 +1,6 @@
 ## Biography
 
-My name is Ashkan Saboori. I am a PhD student in the department of civil and Environmental Engineering at the University of Calfornia at Davis. My major is Structural Engineering with a minor in Pavement Engineering. I am working under the supervision of professor <a href=" https://faculty.engineering.ucdavis.edu/harvey/">John Harvey</a>.
+My name is Ashkan Saboori. I am a PhD student in the department of Civil and Environmental Engineering at the University of Calfornia at Davis. My major is Structural Engineering with a minor in Pavement Engineering. I am working under the supervision of professor <a href=" https://faculty.engineering.ucdavis.edu/harvey/">John Harvey</a>.
 
 ## Interest in Data Science
 Part of my PhD reserach is about analysis of the Pavement Management System (PMS) data collected by Caltrans anually from the network highways in California. Working on this data, urged me towards learning the essential toolbox for doing data analysis in an efficient manner. Since 2015, I have started to take courses related to data analysis and coding in both Computer Science and Statistic departments. I have noticed a great passion about data science and am really ineterested in learing top-notch skills in this field. I believe having a strong background in engineering has given me a set of skills for critical thinking and problem solving that integrating with data analysis skills will make me a viable candidate for future job opportunities. 
@@ -13,37 +13,3 @@ Part of my PhD reserach is about analysis of the Pavement Management System (PMS
 ## Data Science Projects
 ### Bike Sharing Project in Bay Area
 The Bay Area Bike Share is the region’s bike sharing system with 700 bikes and 70 stations across the region, with locations in San Francisco, San Jose, Mountain View, and Palo Alto. A bike sharing system consists of a fleet of specially designed bikes that are locked into a network of docking stations located throughout a region. Bay Area bikes can be rented from and returned to any station in the system, creating an efficient network with many possible combinations of start and end points. <a href = "https://akimbekov.github.io/Insight-into-bike-sharing-in-Bay-Area/">Read more!</a>
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AshkanSaboori/AshkanSaboori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
