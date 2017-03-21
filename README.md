@@ -14,3 +14,4 @@ Part of my PhD reserach is about analysis of the Pavement Management System (PMS
 ### Bike Sharing Project in Bay Area
 The Bay Area Bike Share is the region’s bike sharing system with 700 bikes and 70 stations across the region, with locations in San Francisco, San Jose, Mountain View, and Palo Alto. A bike sharing system consists of a fleet of specially designed bikes that are locked into a network of docking stations located throughout a region. Bay Area bikes can be rented from and returned to any station in the system, creating an efficient network with many possible combinations of start and end points. <a href = "https://akimbekov.github.io/Insight-into-bike-sharing-in-Bay-Area/">Read more!</a>
 <img src="https://raw.githubusercontent.com/AshkanSaboori/AshkanSaboori.github.io/master/Pirctures/BikeShare-diagram.jpg">
+<script src="https://gist.github.com/akimbekov/1795862beb9cc8ce286da3e3f45e3495.js"></script>
