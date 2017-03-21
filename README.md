@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/AshkanSaboori/AshkanSaboori.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Ashkan Saboori. I am a PhD student in the department of civil and Environmental Engineering at the University of Calfornia at Davis. My major is Structural Engineering with a minor in Pavement Engineering. I am working under the supervision of professor <a href=" https://faculty.engineering.ucdavis.edu/harvey/">John Harvey</a>.
 
 ### Markdown
 
