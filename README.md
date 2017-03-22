@@ -1,7 +1,13 @@
 ## Biography
-
+<div class="group>"
+<div class="left">
 My name is Ashkan Saboori. I am a PhD student in the department of Civil and Environmental Engineering at the University of Calfornia at Davis. My major is Structural Engineering with a minor in Pavement Engineering. I am working under the supervision of professor <a href=" https://faculty.engineering.ucdavis.edu/harvey/">John Harvey</a>.
-
+</div>
+<div class="left">
+<img src="https://raw.githubusercontent.com/AshkanSaboori/AshkanSaboori.github.io/master/Pirctures/BikeShare-diagram.jpg">
+</div>
+<div class="end-examples"></div>
+<div class="group"
 ## Educational Background
 - **PhD** in Civil Engineering with an emphasis on Structural Mechanics, The University of California, Davis, California, 2015-present
 - **MS** in Civil Engineering with an emphasis on Structural Mechanics, North Dakota State University, Fargo, North Dakota, 2012-2015
