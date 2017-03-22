@@ -1,10 +1,10 @@
 ## Biography
-<div class="group>"
+<div class="group">
 <div class="left">
 My name is Ashkan Saboori. I am a PhD student in the department of Civil and Environmental Engineering at the University of Calfornia at Davis. My major is Structural Engineering with a minor in Pavement Engineering. I am working under the supervision of professor <a href=" https://faculty.engineering.ucdavis.edu/harvey/">John Harvey</a>.
 </div>
 <div class="right">
-<img src="https://github.com/AshkanSaboori/AshkanSaboori.github.io/blob/master/Pirctures/1.jpg?raw=true">
+<img src="https://github.com/AshkanSaboori/AshkanSaboori.github.io/blob/master/Pirctures/1.jpg?raw=true" height="42" width = "42">
 </div>
 <div class="end-examples"></div>
 <div class="group"
